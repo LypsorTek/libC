@@ -28,6 +28,22 @@ SRCS	= lib/my_putstr.c \
 			lib/my_strchr.c \
 			lib/my_isdigit.c \
 			lib/my_isneg.c \
+			lib/my_put_unsigned_nbr.c \
+			lib/printf/argumenth.c \
+			lib/printf/fonctionbigx.c \
+			lib/printf/fonctionc.c \
+			lib/printf/fonctiond.c \
+			lib/printf/fonctionf.c \
+			lib/printf/fonctionld.c \
+			lib/printf/fonctionlld.c \
+			lib/printf/fonctionn.c \
+			lib/printf/fonctiono.c \
+			lib/printf/fonctionp.c \
+			lib/printf/fonctions.c \
+			lib/printf/fonctionu.c \
+			lib/printf/fonctionx.c \
+			lib/printf/my_printf.c \
+			lib/printf/printpourcent.c \
 			main.c \
 
 OBJS	= $(SRCS:.c=.o)

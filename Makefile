@@ -28,6 +28,12 @@ SRCS	= lib/my_putstr.c \
 			lib/my_strchr.c \
 			lib/my_isdigit.c \
 			lib/my_isneg.c \
+			lib/my_atoi.c \
+			lib/my_str_isnum.c \
+			lib/my_str_isalpha.c \
+			lib/my_str_islower.c \
+			lib/my_str_isupper.c \
+			lib/my_str_isprintable.c \
 			lib/my_put_unsigned_nbr.c \
 			lib/printf/argumenth.c \
 			lib/printf/fonctionbigx.c \
